@@ -29,7 +29,7 @@
         "url": "https://asset-packagist.org"
     }],
     "require": {
-        "bower-asset/intl-tel-input": "^18",
+        "bower-asset/intl-tel-input": "dev-master",
         "giggsey/libphonenumber-for-php": "^8",
         "yiisoft/yii2": ">=2.0.1"
     }
